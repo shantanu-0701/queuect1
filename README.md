@@ -13,7 +13,10 @@ QueueCTL allows you to add background jobs, execute them using workers, retry fa
 
 ### 🔧 Installation
 ```bash
-git clone ...
+git clone https://github.com/shantanu-0701/queuectl1.git
 cd queuectl1
 npm install
 npm run build
+```
+hhhhhhhhhhh
+
